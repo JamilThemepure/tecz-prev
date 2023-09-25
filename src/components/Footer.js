@@ -24,7 +24,7 @@ const Footer = () => {
                   We hope you like our work and that can help you in some way.
                 </p>
                 <div className="tp-demo-footer-btn">
-                  <a className="tp-btn" target="_blank" href="#">
+                  <a className="tp-btn" target="_blank" href="https://themeforest.net/item/tecz-it-solutions-technology-react-next-js-template/48165863?s_rank=1">
                     <svg
                       fill="currentColor"
                       version="1.1"

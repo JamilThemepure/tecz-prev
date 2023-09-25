@@ -33,7 +33,7 @@ const Header = () => {
               <div className="tp-col-xl-4 tp-col-lg-3 tp-col-md-3 tp-col-sm-6 tp-col-6">
                 <div className="tp-demo-header-btn tp-text-end">
                   <a className="tp-btn" target="_blank"
-                    href="https://themeforest.net/checkout/from_item/47101250?license=regular">PURCHASE
+                    href="https://themeforest.net/item/tecz-it-solutions-technology-react-next-js-template/48165863?s_rank=1">PURCHASE
                     NOW</a>
                 </div>
               </div>
